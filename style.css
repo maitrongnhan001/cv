@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    width: 100%;
+    font-size: 20px;
+}
+
+h2 {
+    letter-spacing: 8px;
+    margin-bottom: 8px;
+}
+
+ul {
+    padding-left: 30px;
+}
+
+.hr {
+    width: 150px;
+    height: 6px;
+    background-color: #ADD8E6;
+    border-radius: 6px;
+}
+
+.info svg {
+    position: relative;
+    top: 5px;
+    margin: 0 0px 0 10px
+}
+
+.main {
+    margin: 0 auto;
+    width: 1168px;
+}
+
+.col-left {
+    float: left;
+    width: 40%;
+    background-color: #F0FFFF;
+}
+
+.col-right {
+    float: left;
+    width: 60%;
+    background-color: #F0FFFF;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.home {
+    margin: 10px auto 0 auto;
+    width: 90%;
+}
+
+.home p {
+    margin: 20px 0 10px 0 ;
+}
+
+.img-profile{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 300px;
+    padding: 2px;
+    border: 5px solid #87CEFA;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.job {
+    text-align: center;
+}
+
+.social {
+    margin: 10px auto 0 auto;
+    width: 90%;
+}
+
+.activity {
+    margin: 10px auto 0 auto;
+    width: 90%;
+}
+
+
+
